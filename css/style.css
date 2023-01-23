@@ -1,0 +1,135 @@
+/*
+Author:Aswathi SA
+Date:11/01/2023
+*/
+.container {
+	display: flex;
+	gap: 20px;
+}
+.wikimg {
+	width: 150px;
+}
+a {
+	text-decoration: none;
+}
+.border {
+	border-right: 2px solid #89c4e1;
+	padding-right: 10px;
+}
+.nav a,
+p {
+	margin-left: 5%;
+	padding-left: 5%;
+}
+.width {
+	width: 100%;
+}
+.topdiv {
+	width: 100%;
+	display: flex;
+	justify-content: end;
+	margin-top: 10px;
+	gap: 20px;
+}
+
+h1 {
+	margin-bottom: 0;
+}
+.right {
+	width: 25px;
+	float: right;
+}
+.second_container {
+	display: flex;
+	gap: 20px;
+}
+.paradiv div {
+	padding-left: 0;
+	margin-left: 0;
+	margin-bottom: 15px;
+	line-height: 25px;
+}
+.aside {
+	border: 2px solid;
+	padding: 5px 30px;
+}
+.moon {
+	width: 300px;
+	padding: 0;
+}
+.moon img {
+	width: 100%;
+}
+.moon p {
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+}
+.aside td {
+	padding: 20px 0 20px 20px;
+}
+.aside {
+	height: fit-content;
+}
+.arrange {
+	display: flex;
+	gap: 20px;
+	justify-content: end;
+}
+.img_align {
+	position: absolute;
+	gap: 15px;
+	left: 1200px;
+	top: 10px;
+}
+.line {
+	position: relative;
+	border-bottom: 2px solid;
+}
+.left_topdiv {
+	display: flex;
+	gap: 20px;
+	align-items: flex-end;
+}
+caption {
+	border: 2px solid #b2b2b2;
+	background-color: #b2b2b2;
+	width: 300px;
+}
+.last {
+	border: 2px solid;
+	width: 350px;
+}
+.last h3 {
+	text-align: center;
+}
+.last {
+	background-color: azure;
+}
+.inline {
+	display: flex;
+	align-items: center;
+	width: 100%;
+	justify-content: space-between;
+}
+
+/* .underline {
+	border-bottom: 2px solid #89c4e1;
+	padding-bottom: 25px;
+} */
+.foot p {
+	padding-left: 0;
+	margin-left: 0;
+	font-size: 15px;
+}
+.final_link {
+	display: flex;
+	gap: 20px;
+	font-size: 15px;
+}
+.foot {
+	margin-top: 20px;
+	padding-top: 10px;
+	border-top: 2px solid #89c4e1;
+	margin-left: 12%;
+}
